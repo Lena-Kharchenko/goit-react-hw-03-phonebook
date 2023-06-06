@@ -1,0 +1,24 @@
+p {
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+  border-radius: 5px;
+  border: 2px solid blue;
+  background-color: white;
+  padding: 5px 15px;
+  font-size: 20px;
+  outline: none;
+  margin-bottom: 25px;
+}
+
+input:focus {
+  background-color: #62c1f5;
+}
+
+form {
+  position: relative;
+}
